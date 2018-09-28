@@ -4,6 +4,7 @@ A data science project that uses AirBnB public data for San Francisco to answer 
 # Installation
 1. Python version: 3.6.5 was used for this project
 2. Libraries used: numpy, pandas, seaborn, datetime, Counter, sklearn, matplotlib, warnings
+3. Jupyter Notebook is required
 
 # Motivations
 Explore and analyze the AirBnB public data for San Francisco on topics of Pricing, Occupancy and Review Ratings. Answer the following questons:
