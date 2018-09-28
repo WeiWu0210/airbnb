@@ -22,3 +22,6 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 4. calendar.csv.zip: The calendar data set provides availability and price information for the total 6632 active listings (as of 8/6/2018) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
+# Blog
+1. A blog was written based on this project. The blog's link:
+https://medium.com/@wei.wade.wu/what-makes-people-choose-your-airbnb-home-a9d83722a712
