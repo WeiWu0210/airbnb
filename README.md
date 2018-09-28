@@ -17,7 +17,7 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 
 2. utility.py: functions used by the Jupyter Notebook file 'airbnb_sf.ipynb'.
 
-3. listings.csv: The listings data set provides detailed feature information of each listing in San Francisco (as of 8/6/2018). There are 96 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc.
+3. listings.csv.zip: The listings data set provides detailed feature information of each listing in San Francisco (as of 8/6/2018). There are 96 features associated with each listing such as property type, room type, number of bed rooms, amenities, review ratings, etc. Need to unzip it to CSV file.
 
-4. calendar.csv: The calendar data set provides availability and price information for the total 6632 active listings (as of 8/6/2018) in San Francisco for the next 12 months.
+4. calendar.csv.zip: The calendar data set provides availability and price information for the total 6632 active listings (as of 8/6/2018) in San Francisco for the next 12 months. Need to unzip it to CSV file.
 
