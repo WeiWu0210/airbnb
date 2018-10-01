@@ -25,3 +25,8 @@ Explore and analyze the AirBnB public data for San Francisco on topics of Pricin
 # Blog
 1. A blog was written based on this project. The blog's link:
 https://medium.com/@wei.wade.wu/what-makes-people-choose-your-airbnb-home-a9d83722a712
+
+# Summary of the results of the analysis
+1. A listing’s price is mainly determined by its “hard” property features such as number of available rooms. And, a host may improve the listing’s price tag by enhancing “soft” property features like summary details
+2. Number of reviews is one of the most important factors influencing a listing’s occupancy rate and review scores. A host should do all means to get as many reviews as possible in order to attract more guests.
+3. WiFi and Essentials are must-have amenities that impact a listing’s occupancy rate and review rating.
